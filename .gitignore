@@ -1,5 +1,6 @@
 .metadata/
 RemoteSystemsTempFiles/
 */Debug/
-*/settings/
+*/.settings/
+*/*.launch
 
